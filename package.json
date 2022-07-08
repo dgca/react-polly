@@ -1,6 +1,6 @@
 {
   "name": "react-polly",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "license": "MIT",
   "author": "Daniel Cortes",
   "main": "dist/index.js",
@@ -48,5 +48,22 @@
       "path": "dist/react-polly.esm.js",
       "limit": "10 KB"
     }
-  ]
+  ],
+  "devDependencies": {
+    "@size-limit/preset-small-lib": "^7.0.8",
+    "@tsconfig/create-react-app": "^1.0.2",
+    "@tsconfig/recommended": "^1.0.1",
+    "@types/react": "^18.0.15",
+    "@types/react-dom": "^18.0.6",
+    "dts-cli": "^1.5.2",
+    "husky": "^8.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "size-limit": "^7.0.8",
+    "tslib": "^2.4.0",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "type-fest": "^2.16.0"
+  }
 }
