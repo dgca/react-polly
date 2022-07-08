@@ -4,7 +4,11 @@
 
 **[Bootstrapped with `dts-cli`](https://github.com/weiran-zsd/dts-cli)**
 
+## Status
+
 [![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#experimental)
+
+This library is pre-release, as I'm still trying to work out the best API for this. Feedback is very apprecaited! If you have any ideas, please submit an issue or open a PR 🙏
 
 ## What it does:
 
