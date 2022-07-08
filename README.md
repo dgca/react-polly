@@ -14,7 +14,9 @@ Additionally, it handles ref forwarding via `React.forwardRef`, and it manages m
 
 ## How to use it:
 
-_**Note:** This assumes you're using TypeScript._
+_Note: This assumes you're using TypeScript._
+
+**Install:** `npm install react-polly` or `yarn add react-poly`
 
 `polly` is a generic function that takes two type arguments and one regular function argument.
 
